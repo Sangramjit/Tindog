@@ -1,0 +1,83 @@
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+}
+.image{
+  padding-left: 500px;
+  border-left: 10px;
+}
+h1{
+  font-family:"Poppins";
+  font-weight: bold;
+  size:4rem;
+  line-height: 1.5;
+  font-size: 40px;
+}
+
+h3{
+  font-family: "Ubuntu";
+  font-size: 25px;
+  font-weight: bold;
+}
+ p{
+   color: #8f8f8f;
+ }
+.container-fluid{
+  padding: 3% 15%;
+}
+body{
+  font-family: "Montserrat-Black";
+
+}
+/* Navigation Bar */
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size:2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.nav-link{
+  font-family: "Montserrat-Light";
+  font-size: 1.2rem;
+
+}
+
+/* Downlods Buttons */
+
+.download-button{
+  margin:5% 3% 5% 0;
+}
+
+/* Title Image Resizing */
+.title-image{
+  width:60%;
+  transform: rotate(25deg);
+}
+
+/* Feature Section */
+
+#features{
+  padding: 7% 15%;
+}
+.feature-box{
+  text-align: center;;
+  padding:5%;
+}
+
+/* Coloring the ICONs of our features */
+.icon{
+  color: #ef8172;
+   margin-bottom: 1rem;
+}
+
+/* Hover state code for color changing property */
+.icon:hover{
+  color: #ff4c68;
+}
